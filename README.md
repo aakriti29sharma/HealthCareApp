@@ -11,7 +11,7 @@ Keeping this in mind, this app connects the person sitting inside the ambulance 
 
 **Ambulance Locator**: 
 
-With this module one can locate and book nearby ambulance. He can see real time location of ambulance and can book nearest ambulance. Thus, this can help to save a lot of time to take patient to hospital. Any hospital can register itself on app and provide ambulance service.
+With this module one can locate and book nearby ambulance. He can see real time location of ambulance and can book nearest ambulance. Thus, this can help to save a lot of time to take patient to hospital. Any hospital can register itself on app and provide ambulance service as well as fill the medical form on the way to the hospital.
 
 ## Modules
 
